@@ -1,0 +1,4 @@
+--INSERT INTO contacts (name, phone, email, address) VALUES
+--('张三', '13800138000', 'zhangsan@example.com', '北京市朝阳区'),
+--('李四', '13900139000', 'lisi@example.com', '上海市浦东新区'),
+--('王五', '13700137000', 'wangwu@example.com', '广州市天河区');
